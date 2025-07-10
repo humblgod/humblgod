@@ -16,10 +16,8 @@ Just a chill developer who loves machine learning, networking and playing around
 ## 🎉 Fun Facts
 
 - Everything in my repos is 100% built with ✨ curiosity ✨  
-<!-- - I will refactor code at 3 AM and call it “productive” -->  
 - I enjoy learning by breaking things  
-- My hobby is explaining AI to people who think it’s magic  
-<!-- - I have zero pets, but hundreds of virtual environments 🐍 -->  
+- My hobby is explaining AI to people who think it’s magic
 
 ---
 
@@ -47,5 +45,6 @@ Check it out my thesis project👉 [GitHub Repo](https://github.com/yourusername
 - 🧑‍💻 GitHub: [@humblgod](https://github.com/humblgod)
 
 ---
-
+<!-- - I will refactor code at 3 AM and call it “productive” -->    
+<!-- - I have zero pets, but hundreds of virtual environments 🐍 -->  
 _“Just grind something from your curiosity until you become the demon king.”_
