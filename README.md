@@ -31,7 +31,7 @@ Just a chill developer who loves machine learning, networking and playing around
 
 ---
 
-## 📦 Recenet Featured Project
+## 📦 Recent Featured Project
 
 **🧪 Hybrid-Model-BERT-XGBoost-Hate-Speech-Classification**  
 A research-based project exploring how BERT embeddings and XGBoost classifiers work together to fight hate speech.  
