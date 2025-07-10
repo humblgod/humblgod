@@ -1,4 +1,4 @@
-# 👋 Hello World, I'm [Your Name]  
+# 👋 Hello World, I'm Arrafi  
 Just a chill developer who loves machine learning, networking and playing around datas, experimenting with machine learning, and occasionally losing sleep over a single bug.
 
 ---
